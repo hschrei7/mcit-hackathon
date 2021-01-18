@@ -8,4 +8,6 @@
 #Tech stack:
 #I will predominantly use Google Colab, Python and Word2Vec.
 
+#youtube: https://youtu.be/z6-gBN2xp74
+
 
